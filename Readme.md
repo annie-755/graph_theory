@@ -1,4 +1,6 @@
 GRAPH THEORY -ASSIGNMENT 
+ANDREA MARY
+IMS24030
 
 This project does recursive spectral modularity partitioning to detect communities in Zachary’s Karate Club Graph, and tracks how various centrality metrics evolve as the graph is repeatedly split into smaller sub-communities.
 
